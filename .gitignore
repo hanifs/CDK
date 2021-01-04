@@ -9,6 +9,7 @@ __pycache__/
 *$py.class
 
 # Environments
+
 .env
 .venv
 env/
@@ -20,3 +21,6 @@ venv.bak/
 # CDK Context & Staging files
 .cdk.staging/
 cdk.out/
+
+.idea
+/.idea/
